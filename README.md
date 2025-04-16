@@ -70,6 +70,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
   <img width="12" />
+  <img src="https://repository-images.githubusercontent.com/396938372/08a8f94c-83aa-4d7a-8821-3c76393e7526" height="40" alt="appwrite logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
