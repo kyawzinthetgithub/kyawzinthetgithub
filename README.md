@@ -98,10 +98,10 @@
 <div align="left">
 <h3>Connect with me:</h3>
   <a href="https://www.linkedin.com/in/kyaw-zin-thet-160199310/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="20" alt="linkedin logo"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="32" height="32" alt="linkedin logo"  />
   </a>
   <a href="kyawzinthetpersonal@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="20" alt="gmail logo"  />
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="32" height="32" alt="gmail logo"  />
   </a>
 </div>
 
