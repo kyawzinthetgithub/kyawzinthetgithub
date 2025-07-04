@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img width="12" src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="48" src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
@@ -56,9 +56,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*q6WQxfpgQj3QaDaO.png"  height="40" alt="vuex logo"  />
+  <img width="48" src="https://miro.medium.com/v2/resize:fit:1400/0*q6WQxfpgQj3QaDaO.png"  height="40" alt="vuex logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png"  height="40" alt="pinia logo"  />
+  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pinialogo.svg/1200px-Pinialogo.svg.png"  height="40" alt="pinia logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
@@ -70,7 +70,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
   <img width="12" />
-  <img src="https://repository-images.githubusercontent.com/396938372/08a8f94c-83aa-4d7a-8821-3c76393e7526" height="40" alt="appwrite logo"  />
+  <img width="48" src="https://repository-images.githubusercontent.com/396938372/08a8f94c-83aa-4d7a-8821-3c76393e7526" height="40" alt="appwrite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   <img width="12" />
@@ -78,7 +78,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="40" alt="git logo"  />
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img width="12" />
